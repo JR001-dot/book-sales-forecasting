@@ -89,4 +89,4 @@ Weekly book sales data for "The Alchemist" and "The Very Hungry Caterpillar," sp
 **Raquel J.** - Data Scientist and Analytics Engineer
 
 - Portfolio: [rjdatavoyage.co.uk](https://rjdatavoyage.co.uk)
-- LinkedIn: [Raquel Jones](https://linkedin.com/in/664113153)
+- LinkedIn: [Raquel J.](https://linkedin.com/in/664113153)
